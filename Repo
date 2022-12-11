@@ -1,0 +1,7 @@
+эхо "# Postan" > > README.md
+Git Init
+git add README.md
+git commit -m "первый коммит"
+git branch -M main
+Git Remote Dobavitь Проишоженое git@github.com: Postan / Postan.git
+git push -u origin main
